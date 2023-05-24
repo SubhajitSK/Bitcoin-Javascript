@@ -14,7 +14,7 @@ git clone https://github.com/SubhajitSK/Bitcoin-Javascript.git
 ```
 2. Navigate to the project directory:
 ```shell
-cd wallet-management-system
+cd Bitcoin-Javascript
 ```
 3. Install the dependencies:
 ```
