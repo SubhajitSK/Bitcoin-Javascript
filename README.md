@@ -1,7 +1,7 @@
 Welcome to the Wallet Management System repository! This project provides a collection of JavaScript code that allows users to create wallets, transfer BTC between wallets, and retrieve UTXO and balance information from the blockchain using different APIs. This system supports both Testnet and Mainnet environments.
 
 ## Prerequisites
-Before you can use the Wallet Management System, make sure you have Node.js installed on your machine. You can download Node.js from the official website: https://nodejs.org
+Before you can use the Wallet Management System, make sure you have Node.js installed on your machine. You can download Node.js from the official website: https://nodejs.org and install it.
 
 ## Installation
 
