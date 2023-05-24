@@ -10,14 +10,14 @@ To use the Wallet Management System, follow these steps:
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/wallet-management-system.git
+git clone https://github.com/SubhajitSK/Bitcoin-Javascript.git
 ```
 2. Navigate to the project directory:
 ```shell
 cd wallet-management-system
 ```
 3. Install the dependencies:
-```shell
+```
 npm install
 ```
 
